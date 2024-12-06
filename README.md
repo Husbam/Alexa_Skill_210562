@@ -179,11 +179,25 @@ exports.handler = Alexa.SkillBuilders.custom()
 ```
 
 
+## Icono:
+<div style="display: flex; justify-content: space-between;">
+    <img align="center" src="img/resultados/image2.png?raw=true" alt="image"; />
+</div><br><br><br><br><br><br><br><br><br><br><br>
+
+## Invocacion:
+<div style="display: flex; justify-content: space-between;">
+    <img align="center" src="img/resultados/image3.png?raw=true" alt="image"; />
+</div><br><br><br><br><br><br><br><br><br><br><br>
+
+## JSON de acciones:
+<div style="display: flex; justify-content: space-between;">
+    <img align="center" src="img/resultados/image4.png?raw=true" alt="image"; />
+</div><br><br><br><br><br><br><br><br><br><br><br>
 
 
 ## Resultados:
 <div style="display: flex; justify-content: space-between;">
-    <img align="center" src="img/resultados/image.png?raw=true" alt="image" width="200"; />
+    <img align="center" src="img/resultados/image.png?raw=true" alt="image"; />
 </div><br><br><br><br><br><br><br><br><br><br><br>
 
 ---
