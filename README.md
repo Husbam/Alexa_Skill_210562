@@ -1,5 +1,8 @@
 # **Alexa_Skill_210562**
-
+## HISTORIAL DE PRACTICAS
+|No.|Nómbre|Potenciador|Estatus|
+|--|--|--|--|
+|T7|Creacion de la Skill de Alexa||pendiente|
 ## **Lista de Herramientas**
 
 ![Amazon Developer](https://img.shields.io/badge/Amazon_Developer-232F3E?style=for-the-badge&logo=amazon&logoColor=white)
