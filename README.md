@@ -180,7 +180,7 @@ exports.handler = Alexa.SkillBuilders.custom()
 
 
 
-```
+
 ## Resultados:
 <div style="display: flex; justify-content: space-between;">
     <img align="center" src="img/resultados/image.png?raw=true" alt="image" width="200"; />
